@@ -1,4 +1,4 @@
 # demo-prac
-Practise for GitHub
+Practise for GitHub and Git
 
 !coels
